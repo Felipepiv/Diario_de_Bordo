@@ -6,4 +6,4 @@ Em geral, este modelo representa de forma **abstrata** a estrutura que possuirá
 
 Enquanto o **MER** busca utilizar de conceitos para representar de forma abstrata, o **DER** tenata colocar os conceitos de uma forma visual.
 
-Fonte: [devmedia] (https://www.devmedia.com.br/mer-e-der-modelagem-de-bancos-de-dados/14332)
+Fonte: [devmedia](https://www.devmedia.com.br/mer-e-der-modelagem-de-bancos-de-dados/14332)
