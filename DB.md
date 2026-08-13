@@ -96,4 +96,7 @@ A IA poderá ajudar na tradução do modelo conceitual MER para o modelo lógico
 ## Documentação Automática
 A IA pode ajudar a criar documentos de forma clara e didática para os desenvolvedores, analistas e gestores que  entendem as estruturas do bando de dados. A inteligencia Artificial tem mostrado uma ferramente valiosa no processo de modelagem de dados, especialmente na criação e otimização de modelos do tipo MER e DER. Sendo possível acelerar a geração de diagramas a partir de descrição textuais, e relacionamentos, validar modelos evitando erros comuns até converter automaticamente modelos conceituais em esquemas relacionais prontos para implementação. Entretanto, esta integração representa uma importante evolução, tornando-se o desenvolvimento de bancos de dados mais ágil, preciso e alinhada ás necessidades reais de negócios. 
 
+## Exemplo de DER de uma Biblioteca
+![Diagrama](DER-Biblioteca.pdf)
+
 Fonte: [devmedia](https://www.devmedia.com.br/mer-e-der-modelagem-de-bancos-de-dados/14332)
